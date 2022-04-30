@@ -1,3 +1,5 @@
+# Capitulo IV: Estrategias de diseño de algoritmos (dividir para conquistar y backtracking)
+
 ## Contenidos
 1. Introducción
 2. Dividir para conquistar
