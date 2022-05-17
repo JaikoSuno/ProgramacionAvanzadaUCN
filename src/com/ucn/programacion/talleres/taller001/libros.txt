@@ -1,0 +1,3 @@
+1,Juventud en extasis,Carlos Cuahtémoc Sánchez,Ficción,192,1994,50
+2,Donde surgen las sombras,David Lozano Garbala,Terror,Ficción,834,2006,40
+3,El principito,Antoine de Saint-Exupéry,Literatura infantil,Fábula,96,1943,100

@@ -1,0 +1,3 @@
+4,Interestelar,Christopher Nolan,Ciencia Ficción,Aventura,2,49,2014,10
+5,Kimi no nawa,Makoto Shinkai,Romance,Fantasía,1,52,2016,15
+6,El exorcista,William Friedkin,Terror,Suspenso,2,12,1973,10
